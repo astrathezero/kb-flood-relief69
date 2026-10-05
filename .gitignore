@@ -1,0 +1,13 @@
+# Prevent raw data, raw images, and temporary files from ever being committed to GitHub
+_raw/
+raw/
+images/
+scratch/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.heic
+*.log
+*.pid
+.DS_Store
